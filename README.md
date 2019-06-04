@@ -1,16 +1,32 @@
 # flutterinheritedwidget
 
-A new Flutter project.
+Flutter Tutorial - Flutter Inherited Widget
+Flutter Tutorial - Flutter Inherited Widget Video series can be watched here https://www.youtube.com/watch?v=pi0X-QWWfIk
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterInheritedWidget/blob/master/assets/Screenshot_1559623026.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                     <img src="https://github.com/whatsupcoders/FlutterInheritedWidget/blob/master/assets/Screenshot_1559623021.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterInheritedWidget/blob/master/assets/Screenshot_1559623033.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterInheritedWidget/blob/master/assets/inherited.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
-A few resources to get you started if this is your first Flutter project:
+FOLLOW ME HERE:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
