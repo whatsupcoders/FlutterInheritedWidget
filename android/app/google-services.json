@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "43311712780",
+    "firebase_url": "https://fluttersigninapp-cfdcc.firebaseio.com",
+    "project_id": "fluttersigninapp-cfdcc",
+    "storage_bucket": "fluttersigninapp-cfdcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43311712780:android:2e98b6ba9937e8a6",
+        "android_client_info": {
+          "package_name": "com.example.fluttergooglesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2srndVR81UzHxjlpz1Z7QPAW-Jtc0Zqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43311712780-0rj4abaiqdlac1fof8j91esg9ogdokf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
